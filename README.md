@@ -4,7 +4,7 @@ A discord bot that will roll a dice for the user using commands. This bot can be
 
 ## Commands:
 
-Use "!roll", "!roll d[number]", or "!roll a coin" are the commands the bot will accept.
+"!roll", "!roll d[number]", or "!roll a coin" are the commands the bot will accept.
 
 * "!roll" will default to a number between 1 and 6 inclusive.
 
