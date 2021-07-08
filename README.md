@@ -1,4 +1,4 @@
-# Dice_Roller_Discord_Bot
+# Dice Roller Discord Bot
 
 A discord bot that will roll a dice for the user using commands. This bot can be used for online RPG games or random number generators. This project used Javascript. This project gave me experience with bot creation, user interactability, Visual Studio Code, and discord. Must change bot token before using.
 
